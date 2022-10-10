@@ -57,6 +57,19 @@ ul p
     color: white;
 }
 
+ul#recipe-list a
+{
+    color: white;
+    text-decoration: underline #ff9966;
+    text-underline-position: under;
+    text-underline-offset: 3px;
+}
+
+ul#recipe-list a:hover
+{
+    text-decoration: underline greenyellow;
+}
+
 div
 {
     margin-top: 20px;
