@@ -15,6 +15,11 @@ div#ingredients ul li
     margin-bottom: 0;
 }
 
+.key-value li p:first-child:hover
+{
+    text-decoration: underline greenyellow;
+}
+
 /* Add italic font style for each value and margins */
 .key-value li p:nth-child(2)
 {
