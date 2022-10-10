@@ -10,7 +10,6 @@ div#ingredients ul li
 {
     margin-top: 10px;
     margin-bottom: 10px;
-    font-style: italic;
 }
 
 /* Add underline for each key in the list
@@ -27,8 +26,6 @@ div#ingredients ul li
 /* Add italic font style for each value and margins */
 .key-value li p:nth-child(2)
 {
-    font-style: italic;
-
     margin-top: 10px;
     margin-bottom: 10px;
 }
