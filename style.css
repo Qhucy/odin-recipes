@@ -11,6 +11,11 @@ body
 
 a
 {
+    color: #ff9966;
+}
+
+a:hover
+{
     color: greenyellow;
 }
 
@@ -112,7 +117,12 @@ div.border h2
 .button
 {
     text-decoration: none;
-    border: 2px solid yellowgreen;
-    color: greenyellow;
+    border: 2px solid greenyellow;
+    color: #ff9966;
     padding: 5px;
+}
+
+.button:hover
+{
+    color: greenyellow;
 }
