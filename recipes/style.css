@@ -1,4 +1,4 @@
-div#top a.button
+div#top a.button:first-child
 {
     color: greenyellow;
     border: 2px solid greenyellow;
