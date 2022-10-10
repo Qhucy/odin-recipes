@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
 
 body
 {
@@ -10,7 +11,29 @@ body
 
 a
 {
-    color: aqua;
+    color: #ff9966;
+}
+
+h1
+{
+    font-size: 250%;
+}
+
+h1#title
+{
+    border-bottom: 4px solid #ff9966;
+    padding: 5px;
+}
+
+h2
+{
+    font-size: 180%;
+}
+
+h1, h2
+{
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: normal;
 }
 
 div
@@ -21,7 +44,7 @@ div
 
 .border
 {
-    border: 2px solid white;
+    border: 2px solid #ff9966;
     padding: 15px;
 }
 
@@ -40,6 +63,6 @@ div.border h2
 .button
 {
     text-decoration: none;
-    border: 2px solid aqua;
+    border: 2px solid #ff9966;
     padding: 5px;
 }
