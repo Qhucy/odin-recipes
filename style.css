@@ -61,6 +61,11 @@ ul li
     color: #ff9966;
 }
 
+ul li:hover
+{
+    color: greenyellow;
+}
+
 /* Change text color of each list */
 ul p
 {
