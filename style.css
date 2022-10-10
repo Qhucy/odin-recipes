@@ -28,11 +28,13 @@ div
 div.border h1
 {
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 div.border h2
 {
     margin-top: 0;
+    margin-bottom: 0;
 }
 
 .button
