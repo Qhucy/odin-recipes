@@ -1,11 +1,3 @@
-/* Make go back to home button green */
-div#top a.button:first-child
-{
-    color: greenyellow;
-    border: 2px solid greenyellow;
-    padding: 5px;
-}
-
 div#ingredients ul li
 {
     margin-top: 10px;
