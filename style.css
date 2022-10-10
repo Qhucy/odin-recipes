@@ -85,7 +85,7 @@ ul p
     color: white;
 }
 
-ul.recipe-list a
+ul#recipe-list a
 {
     color: white;
     text-decoration: underline #ff9966;
@@ -93,23 +93,9 @@ ul.recipe-list a
     text-underline-offset: 3px;
 }
 
-ul.recipe-list a:hover
+ul#recipe-list a:hover
 {
     text-decoration: underline greenyellow;
-}
-
-div#recipes
-{
-    margin-top: 0;
-    margin-bottom: 0;
-    display: flex;
-    flex-direction: row;
-}
-
-div#recipes div
-{
-    margin-top: 0;
-    margin-bottom: 0;
 }
 
 div
