@@ -28,6 +28,8 @@ h1#title
 h2
 {
     font-size: 180%;
+    text-decoration: underline white;
+    text-underline-position: under;
 }
 
 h1, h2
