@@ -6,20 +6,20 @@ div#top a.button:first-child
 }
 
 /* Change color of the dot of each list */
-ul.key-element li
+ul.key-value li
 {
     color: #ff9966;
 }
 
 /* Change text color of each list */
-ul.key-element p
+ul.key-value p
 {
     color: white;
 }
 
 /* Add underline for each key in the list
    and remove margin for each key in the list */
-.key-element li p:first-child
+.key-value li p:first-child
 {
     text-decoration: underline #ff9966;
     text-underline-position: under;
@@ -29,7 +29,7 @@ ul.key-element p
 }
 
 /* Add italic font style for each value and margins */
-.key-element li p:nth-child(2)
+.key-value li p:nth-child(2)
 {
     font-style: italic;
 
