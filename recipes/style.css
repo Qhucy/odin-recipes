@@ -1,0 +1,10 @@
+div
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div.border h2
+{
+    margin-top: 0;
+}
