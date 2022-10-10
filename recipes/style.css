@@ -6,6 +6,13 @@ div#top a.button:first-child
     padding: 5px;
 }
 
+div#ingredients ul li
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
 /* Change color of the dot of each list */
 ul.key-value li
 {
