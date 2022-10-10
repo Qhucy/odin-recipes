@@ -11,7 +11,7 @@ body
 
 a
 {
-    color: #ff9966;
+    color: greenyellow;
 }
 
 h1
@@ -84,6 +84,7 @@ div.border h2
 .button
 {
     text-decoration: none;
-    border: 2px solid #ff9966;
+    border: 2px solid yellowgreen;
+    color: greenyellow;
     padding: 5px;
 }
