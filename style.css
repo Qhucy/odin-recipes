@@ -124,6 +124,5 @@ div.border h2
 
 .button:hover
 {
-    border: 2px solid greenyellow;
     color: greenyellow;
 }
