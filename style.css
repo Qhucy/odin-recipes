@@ -11,14 +11,16 @@ body
 
 a
 {
-    color: #ff9966;
+    color: white;
+    text-decoration: underline #ff9966;
+    text-underline-position: under;
+    text-underline-offset: 3px;
 }
 
 a:hover
 {
-    color: greenyellow;
+    text-decoration: underline greenyellow;
 }
-
 
 .title
 {
@@ -85,19 +87,6 @@ ul p
     color: white;
 }
 
-ul#recipe-list a
-{
-    color: white;
-    text-decoration: underline #ff9966;
-    text-underline-position: under;
-    text-underline-offset: 3px;
-}
-
-ul#recipe-list a:hover
-{
-    text-decoration: underline greenyellow;
-}
-
 div
 {
     margin-top: 20px;
@@ -132,5 +121,6 @@ div.border h2
 
 .button:hover
 {
+    text-decoration: none;
     color: greenyellow;
 }
