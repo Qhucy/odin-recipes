@@ -45,6 +45,18 @@ h1, h2
     font-weight: normal;
 }
 
+/* Change color of the dot of each list */
+ul li
+{
+    color: #ff9966;
+}
+
+/* Change text color of each list */
+ul p
+{
+    color: white;
+}
+
 div
 {
     margin-top: 20px;
