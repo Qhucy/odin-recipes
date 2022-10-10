@@ -12,3 +12,9 @@ a
 {
     color: aqua;
 }
+
+.border
+{
+    border: 2px solid white;
+    padding: 15px;
+}
