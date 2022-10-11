@@ -9,6 +9,12 @@ body
     font-size: medium;
 }
 
+img
+{
+    width: 300;
+    height: 200;
+}
+
 a
 {
     color: white;
